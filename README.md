@@ -1,4 +1,4 @@
-# sistecProgramsA Equipe
+A Equipe
 Product Owner
 Júlio Vasconcelos
 
